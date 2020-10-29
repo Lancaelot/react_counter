@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,SACE,aAAc,CACd,WAAY,CACZ,aAAc","file":"main.5c985a85.chunk.css","sourcesContent":["// styles go here\n.counter {\n  display: block;\n  width: 200px;\n  margin: 0 auto;\n}\n"]}
